@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="108835a2-8349-4579-9e59-30a0ab18bd14" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_tasks.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Polindrom.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/addTwoNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/linkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/longestCommonPref.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mergeTwoSortedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mergeTwoSortedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/romanToInt.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/twoSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/mergeSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/mergeSortedArray.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +29,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -48,8 +39,8 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="mergeSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mergeSortedArray" />
+    <configuration name="addTwonumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="addTwonumbers" />
       <module name="java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -57,7 +48,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.mergeSortedArray" />
+        <item itemvalue="Application.addTwonumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -69,8 +60,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1634485027169</updated>
+      <workItem from="1637783275989" duration="5804000" />
+      <workItem from="1637932728355" duration="1000" />
+      <workItem from="1638180442305" duration="332000" />
+      <workItem from="1638191062488" duration="149000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -82,6 +80,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
